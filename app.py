@@ -5,10 +5,10 @@ from telebot import types
 import random
 
 # Set up your Telegram bot token
-bot_token = '6224689613:AAGPDcIBg76hT7-KTIptd3uiQBiNyePNCzU'
+bot_token = 'YOUR_BOT_TOKEN'
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 
 bot = telebot.TeleBot(bot_token)
 
