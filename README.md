@@ -1,6 +1,6 @@
 # Questionnaire Telegram Bot (ChatGPT)
 
-![Questionnaire Telegram Bot](bot_image.png)
+![Questionnaire Telegram Bot](https://github.com/nithin-developer/Questionnaire-Telegram-Bot-ChatGPT/assets/92811211/dac17d84-65cf-43ed-826b-1d78be8ae69c)
 
 The Questionnaire Telegram Bot is a chatbot developed to facilitate the process of conducting questionnaires and providing ratings for user answers. This Telegram bot utilizes the power of ChatGPT, an advanced language model, to generate sample answers and evaluate user responses. The bot supports three types of questions: oral, writing, and letter writing questions.
 
